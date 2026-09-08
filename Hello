@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    printf("sum of two numbers ");
+    return 0;
+}
